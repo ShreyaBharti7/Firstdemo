@@ -1,4 +1,5 @@
 # Firstdemo
 This is my first repository in github
 <br>
-Auther "Shreya"
+Auther "Shreya ghosh"
+
